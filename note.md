@@ -16,4 +16,6 @@
 
 # Optically addressable nuclear spins in a solid with a six-hour coherence time (Jan,2015)
 
-## 
+## 离子参杂(在硅酸钇里参杂铕$Y_2 Si O_5$)
+
+- [] Langer, C. et al. Long-lived qubit memory using atomic ions. Phys. Rev. Lett. 95, 060502 (2005)
